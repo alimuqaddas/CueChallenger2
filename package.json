@@ -1,0 +1,28 @@
+{
+  "name": "snookerandpool",
+  "version": "1.0.0",
+  "description": "Snooker and Pool Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package":"",
+    "build":"electron-packager --platform=darwin --arch=x64 --version=0.27.2 --icon=icon.icns . SnookerAndPool "
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Snooker",
+    "Pool",
+    "cue"
+  ],
+  "author": "Ali Muqaddas",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "asar": "^0.13.0",
+    "electron": "~1.6.2",
+    "electron-packager": "^9.1.0",
+    "electron-rebuild": "^1.6.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

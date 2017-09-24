@@ -1,0 +1,13 @@
+#player1{
+    height:90px;-webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20px;background:rgba(48,35,29,0.5);-webkit-box-shadow: #B3B3B3 2px 2px 2px;-moz-box-shadow: #B3B3B3 2px 2px 2px; box-shadow: #B3B3B3 2px 2px 2px;
+}
+#player1:hover {
+    cursor: pointer; height:90px;-webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20px;background:rgba(48,35,29,1);-webkit-box-shadow: #B3B3B3 2px 2px 2px;-moz-box-shadow: #B3B3B3 2px 2px 2px; box-shadow: #B3B3B3 2px 2px 2px;
+}
+
+#player2{
+    height:90px;-webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20px;background:rgba(48,35,29,0.5);-webkit-box-shadow: #B3B3B3 2px 2px 2px;-moz-box-shadow: #B3B3B3 2px 2px 2px; box-shadow: #B3B3B3 2px 2px 2px;
+}
+#player2:hover {
+    cursor: pointer; height:90px;-webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20px;background:rgba(48,35,29,1);-webkit-box-shadow: #B3B3B3 2px 2px 2px;-moz-box-shadow: #B3B3B3 2px 2px 2px; box-shadow: #B3B3B3 2px 2px 2px;
+}
